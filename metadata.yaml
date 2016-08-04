@@ -1,0 +1,40 @@
+_repo: The-Adventures-of-Pinocchio_500
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Della Chiesa, Carol
+    aliases:
+    - Chiesa, Carol Della
+    - Della Chiesa, Carolyn M.
+    birthdate: 1887
+    gutenberg_agent_id: '6146'
+    url: http://www.gutenberg.org/2009/agents/6146
+creator:
+  author:
+    agent_name: Collodi, Carlo
+    aliases:
+    - Lorenzini, Carlo
+    - Collodi, C. (Carlo)
+    birthdate: 1826
+    deathdate: 1890
+    gutenberg_agent_id: '268'
+    url: http://www.gutenberg.org/2009/agents/268
+    wikipedia: http://en.wikipedia.org/wiki/Carlo_Collodi
+description: ''
+gutenberg_issued: '2006-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '500'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pinocchio (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+- !lcc 'PQ'
+- !lcsh 'Puppets -- Juvenile fiction'
+- GITenberg
+title: The Adventures of Pinocchio
+url: http://www.gutenberg.org/ebooks/500
